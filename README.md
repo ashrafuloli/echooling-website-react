@@ -1,6 +1,6 @@
 # Echooling Website React
 
-## [Live Demo](https://ashrafuloli-echooling-react.netlify.app/)
+# [Live Demo](https://ashrafuloli-echooling-react.netlify.app/)
 
 <div align="center">
   <a href="https://ashrafuloli-echooling-react.netlify.app/" target="_blank">
@@ -20,7 +20,7 @@ _Below is an example of how you can instruct your audience on installing and set
     ```sh
     git clone https://github.com/ashrafuloli/echooling-website-react.git
     ```
-2. Install NPM packages
+2. Install [Yarn](https://classic.yarnpkg.com/en/) packages
     ```sh
     yarn install
     ```
