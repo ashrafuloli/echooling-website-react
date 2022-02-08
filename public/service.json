@@ -1,0 +1,74 @@
+[
+    {
+        "_id": "1",
+        "name": "The Most Complete Design Thinking Course On TheMarket.",
+        "price": 76.00,
+        "language": "English",
+        "enrolled": "146 students",
+        "lectures": "66 Lectures",
+        "thumb": "./image/service/service-1.png",
+        "large": "./image/service/large-1.jpg",
+        "body": "<h3>About This Course</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat nis Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occae cat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde om nis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo in ve ntore veritatis et qua architecto beatae vitae dicta sunt explicabo.Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt neu e porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur ad ipisci velit, sed quia non numquame senius modi tempora incidunt ut labore et dolore magnam.</p>",
+        "faq": "<h3>FAQ</h3><p>Lorem Ipsn gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auci elit consequat ipsutis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitaes erat consequat auctor eu in elit.</p>"
+    },
+    {
+        "_id": "2",
+        "name": "Learn Essentials of User Interface Design in Figma.",
+        "price": 95.00,
+        "language": "English",
+        "enrolled": "32 Students",
+        "lectures": "46 Lectures",
+        "thumb": "./image/service/service-2.png",
+        "large": "./image/service/large-1.jpg",
+        "body": "<h3>About This Course</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat nis Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occae cat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde om nis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo in ve ntore veritatis et qua architecto beatae vitae dicta sunt explicabo.Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt neu e porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur ad ipisci velit, sed quia non numquame senius modi tempora incidunt ut labore et dolore magnam.</p>",
+        "faq": "<h3>FAQ</h3><p>Lorem Ipsn gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auci elit consequat ipsutis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitaes erat consequat auctor eu in elit.</p>"
+    },
+    {
+        "_id": "3",
+        "name": "Consulting Approach to Problem Solving Working",
+        "price": 49.00,
+        "language": "English",
+        "enrolled": "96 students",
+        "lectures": "39 Lectures",
+        "thumb": "./image/service/service-3.png",
+        "large": "./image/service/large-1.jpg",
+        "body": "<h3>About This Course</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat nis Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occae cat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde om nis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo in ve ntore veritatis et qua architecto beatae vitae dicta sunt explicabo.Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt neu e porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur ad ipisci velit, sed quia non numquame senius modi tempora incidunt ut labore et dolore magnam.</p>",
+        "faq": "<h3>FAQ</h3><p>Lorem Ipsn gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auci elit consequat ipsutis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitaes erat consequat auctor eu in elit.</p>"
+    },
+    {
+        "_id": "4",
+        "name": "Find Music Category inside your Soula",
+        "price": 99.00,
+        "language": "English",
+        "enrolled": "18 students",
+        "lectures": "16 Lectures",
+        "thumb": "./image/service/service-4.png",
+        "large": "./image/service/large-1.jpg",
+        "body": "<h3>About This Course</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat nis Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occae cat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde om nis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo in ve ntore veritatis et qua architecto beatae vitae dicta sunt explicabo.Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt neu e porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur ad ipisci velit, sed quia non numquame senius modi tempora incidunt ut labore et dolore magnam.</p>",
+        "faq": "<h3>FAQ</h3><p>Lorem Ipsn gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auci elit consequat ipsutis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitaes erat consequat auctor eu in elit.</p>"
+    },
+    {
+        "_id": "5",
+        "name": "Business Approach to Problem Solving Banner",
+        "price": 36.00,
+        "language": "English",
+        "enrolled": "26 students",
+        "lectures": "39 Lectures",
+        "thumb": "./image/service/service-5.png",
+        "large": "./image/service/large-1.jpg",
+        "body": "<h3>About This Course</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat nis Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occae cat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde om nis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo in ve ntore veritatis et qua architecto beatae vitae dicta sunt explicabo.Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt neu e porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur ad ipisci velit, sed quia non numquame senius modi tempora incidunt ut labore et dolore magnam.</p>",
+        "faq": "<h3>FAQ</h3><p>Lorem Ipsn gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auci elit consequat ipsutis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitaes erat consequat auctor eu in elit.</p>"
+    },
+    {
+        "_id": "6",
+        "name": "TSuccessful Negotiation: Master Your Negotiating Skills",
+        "price": 85.00,
+        "language": "English",
+        "enrolled": "26 students",
+        "lectures": "19 Lectures",
+        "thumb": "./image/service/service-6.png",
+        "large": "./image/service/large-1.jpg",
+        "body": "<h3>About This Course</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat nis Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occae cat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde om nis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo in ve ntore veritatis et qua architecto beatae vitae dicta sunt explicabo.Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt neu e porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur ad ipisci velit, sed quia non numquame senius modi tempora incidunt ut labore et dolore magnam.</p>",
+        "faq": "<h3>FAQ</h3><p>Lorem Ipsn gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auci elit consequat ipsutis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitaes erat consequat auctor eu in elit.</p>"
+    }
+]
